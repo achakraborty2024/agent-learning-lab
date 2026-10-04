@@ -78,11 +78,9 @@ The evaluator contains answer keys; the agent receives problem descriptions and 
 
 The scripted walkthrough intentionally illustrates the loop. Its apparent improvement is programmed. It must not be quoted as AI performance evidence.
 
-Live output is a tiny synthetic pilot. Four held-out tasks cannot establish production reliability, broad transfer, or publication-level findings. Passing one validation task can promote an overly broad lesson. The baseline model may already solve every task, leaving no measurable improvement; that is a valid result.
-
 Raw history and lessons differ in context length. Training feedback is authored in this repository. Repeated calls are not independent new tasks. There are no confidence intervals, automatic forgetting, adversarial feedback experiments, or learning-curve claims in v0.1.
 
-See [the evaluation protocol](docs/evaluation.md) before sharing numbers publicly.
+See [the evaluation protocol](docs/evaluation.md).
 
 
 ## Roadmap
