@@ -84,19 +84,6 @@ Raw history and lessons differ in context length. Training feedback is authored 
 
 See [the evaluation protocol](docs/evaluation.md) before sharing numbers publicly.
 
-## Publish to GitHub
-
-The prepared package is a repository source tree. A hosted repository must still be created. To publish from your machine with GitHub CLI:
-
-```bash
-git init -b main
-git add .
-git commit -m "Initial Agent Learning Lab prototype"
-gh auth login
-gh repo create agent-learning-lab --private --source=. --remote=origin --push
-```
-
-Private is the default in these instructions. Make it public when you are ready to share it, and then use its real URL in your LinkedIn article. Alternatively create an empty repository through GitHub and push this directory to its supplied remote.
 
 ## Roadmap
 
