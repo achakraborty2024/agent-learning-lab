@@ -6,7 +6,6 @@
 
 A small MemGPT-inspired experiment built on the Letta API. Agents propose lessons from externally supplied feedback; the harness validates those lessons, records revisions in SQLite, and compares performance on held-out incident variants.
 
-Author: Arup Chakraborty. Independent educational project; not affiliated with Letta or Oracle.
 
 ## What works today
 
