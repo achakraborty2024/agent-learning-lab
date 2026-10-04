@@ -1,6 +1,6 @@
 # Agent Learning Lab
 
-![From Memory to Self-Improvement](docs/cover.png)
+![From Memory to Self-Improvement](docs/learning_loop_sketch.png)
 
 **Can an agent use experience to perform better on a new task without changing model weights?**
 
